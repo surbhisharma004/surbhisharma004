@@ -3,7 +3,6 @@
 <a href="#"><img src="https://i.imgur.com/rHlEdDq.gif" width="1600" height="300"></a>
 </p>
 <h1 align="center">Hi 👋, I'm Surbhi Sharma</h1>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 </p>
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+Developer;I'm+an+ML+Enthusiast;I'm+an+Android+Developer" height="40" /></a>
