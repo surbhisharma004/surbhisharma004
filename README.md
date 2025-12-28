@@ -22,6 +22,23 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/surbhisharma004)
 
 - 📫 How to reach me: **surbhisharma21222004@gmail.com**
+- ## 🌍 Open Source Experience
+
+- 🏆 **Hacktoberfest Contributor**  
+  Contributed to multiple repositories by fixing bugs, improving documentation, and enhancing existing features.
+
+- 💜 **GirlScript Summer of Code (GSSoC) Contributor**  
+  Worked on real-world open-source projects, collaborated with mentors, followed proper GitHub workflows, and delivered quality pull requests.
+
+✔️ Experienced with:
+- Writing clean PRs with clear descriptions  
+- Understanding large codebases  
+- Issue discussions & mentor feedback  
+- Git, GitHub, code reviews, and version control best practices  
+
+> 💡 Actively preparing for **Google Summer of Code (GSoC 2026)** by contributing consistently and engaging with open-source communities.
+
+---
 
 - 🤝 Lets Collaborate!
 
