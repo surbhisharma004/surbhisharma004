@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Surbhi Sharma</h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+Developer;I'm+an+ML+Enthusiast;I'm+an+Android+Developer" height="40" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+Developer;I'm+an+ML+Enthusiast;I'm+an+Android+Developer;I'm+an+OpenSource+Enthusiast" height="40" /></a>
   </p>
   
   <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="300">
