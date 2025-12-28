@@ -36,8 +36,6 @@
 - Issue discussions & mentor feedback  
 - Git, GitHub, code reviews, and version control best practices  
 
-> 💡 Actively preparing for **Google Summer of Code (GSoC 2026)** by contributing consistently and engaging with open-source communities.
-
 ---
 
 - 🤝 Lets Collaborate!
@@ -83,14 +81,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surbhisharma004&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="surbhisharma004" />
 </p>
 
-  
-------
-  
-  <p align="center">
-   <b><i>Git outta my way, I'm gonna commit.</i></b>  </p>
-  <p align="center">
-  <img src="https://github.com/rock12231/rock12231/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
 <!--
 **surbhisharma004/surbhisharma004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
