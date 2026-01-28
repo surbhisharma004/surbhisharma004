@@ -46,39 +46,58 @@
   
  </a>
 </div>   
-  
+ - 🐍 Watch My Contribution Snake Eat All My Commits
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ihaagrawal/ihaagrawal/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+--- 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="BootStrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" title="Numpy" alt="NumPy" width="50" height="40"/>&nbsp;
-  <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" title="TensorFlow" alt="TensorFlow" width="50" height="40"/>&nbsp;
-  <img height="50" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*0G5zu7CnXdMT9pGbYUTQLQ.png"/>&nbsp;
-  <img height="40" width="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"/>&nbsp;
+<div align="center">
+
+### Languages I Speak (Better Than Human Languages)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### ML/AI Arsenal 🤖
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
   
   ----
+## 📊 GitHub Stats (The Numbers Game)
 
-  <h3 align="left"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px" alt="Git"/>&nbsp;<i><b>Git Stats: </b></i></h3>
-  <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surbhisharma004_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="surbhisharma004" />
-</p>
-<p align='center'>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surbhisharma004&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="surbhisharma004" />
-</p>
+<div align="center">
+  
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surbhisharma004&theme=radical)
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surbhisharma004&theme=radical)](https://git.io/streak-stats)
+
+</div>
+
+<sub>⭐ If you like my repos, give them a star! ⭐</sub>
+
+<sub>🔔 And if you really like them, fork them! (I won't take it personally) 🔔</sub>
+
+<sub>🐛 Found a bug? That's a feature! (Just kidding, please open an issue) 🐛</sub>
 
 
 <!--
